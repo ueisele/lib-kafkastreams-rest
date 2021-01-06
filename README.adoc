@@ -2,6 +2,8 @@
 
 Library that provides a common rest interface for Kafka Streams metadata and state stores.
 
+Based on https://github.com/confluentinc/kafka-streams-examples/blob/5.3.0-post/src/main/java/io/confluent/examples/streams/interactivequeries/WordCountInteractiveQueriesRestService.java
+
 == Build
 
 You need to have [Gradle](http://www.gradle.org/installation) and [Java](http://www.oracle.com/technetwork/java/javase/downloads/index.html) installed.
